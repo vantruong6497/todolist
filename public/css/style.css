@@ -1,0 +1,10 @@
+div.row{
+    margin-top: 20px;
+}
+
+span.badge.badge-success{border-radius: 3px;
+    margin-left: 20px;
+    height: 34px;
+    line-height: 27px;
+    background: green;
+}
